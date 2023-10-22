@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pravin Sakhare</h1>
+<h3 align="center">A passionate White Hat Hacker & Editor/Creater</h3>
+<img align="right"alt="Coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<!--
-**pravinsakhare/pravinsakhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinsakhare&label=Profile%20views&color=0e75b6&style=flat" alt="pravinsakhare" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravinsakhare" alt="pravinsakhare" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **BCA(Bachlor in Computer Science)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/pravinsakhare](https://github.com/pravinsakhare)
+
+- 📝 I regularly write articles on [https://mysteriouspravin.com](https://mysteriouspravin.com)
+
+- 💬 Ask me about **Python,Photshop,Networking,Chess**
+
+- 📫 How to reach me **tech.pravinsakhare@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/pravin-sakhare-260720251/](https://www.linkedin.com/in/pravin-sakhare-260720251/)
+
+- ⚡ Fun fact **State level Chess Player**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/__space_craft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__space_craft" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pravin-sakhare-260720251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-sakhare-260720251" height="30" width="40" /></a>
+<a href="https://instagram.com/___itspravin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___itspravin__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mysterious.pravin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mysterious.pravin" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinsakhare&show_icons=true&locale=en&layout=compact" alt="pravinsakhare" /></p>
