@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pravinsakhare](https://github.com/pravinsakhare)
 
-- 📝 I regularly write articles on [https://mysteriouspravin.com](https://mysteriouspravin.com)
+- 📝 I regularly write articles on [https://pravinsakhare.in](https://mysteriouspravin.com)
 
 - 💬 Ask me about **Python,Photshop,Networking,Chess**
 
