@@ -1,21 +1,21 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/6dc4e4d1-36fc-4a3c-90bd-c172685f5302" />
 
 <h1 align="center">Hi 👋, I'm Pravin Sakhare</h1>
-<h3 align="center">A passionate White Hat Hacker & Editor/Creater</h3>
+<h3 align="center">A passionate Cloud and DevOps Person</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinsakhare&label=Profile%20views&color=0e75b6&style=flat" alt="pravinsakhare" /> </p>
 
 
-- 🌱 I’m currently learning **BCA(Bachlor in Computer Science)**
+- 🌱 I’m currently learning **AWS Re/Start (Amazon Web Services school)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pravinsakhare](https://github.com/pravinsakhare)
 
 - 📝 I regularly write articles on [https://pravinsakhare.in](https://mysteriouspravin.com)
 
-- 💬 Ask me about **Python,Photshop,Networking,Chess**
+- 💬 Ask me about **Cloud, Docker, Linux, Networking, Python**
 
-- 📫 How to reach me **tech.pravinsakhare@gmail.com**
+- 📫 How to reach me **dtoxsky**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pravin-sakhare-260720251/](https://www.linkedin.com/in/pravin-sakhare-260720251/)
 
