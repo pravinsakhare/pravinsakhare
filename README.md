@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Professional+%F0%9F%8E%AF;Kubernetes+%7C+Docker+%7C+Terraform;Building+Scalable+Infrastructure+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Professional+%F0%9F%8E%AF;Docker+%7C+CI%2FCD+%7C+Linux;Building+Cloud+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
   
 </div>
 
@@ -31,9 +31,9 @@ education:
   - "AWS Certified Cloud Practitioner"
   - "Bachelor's Degree - DY Patil International University"
   
-interests: ["Cloud Architecture", "Infrastructure as Code", "Container Orchestration", "CI/CD Automation"]
-currently_learning: ["Kubernetes CKA", "Advanced AWS Solutions", "Terraform Enterprise Patterns"]
-fun_fact: "State-level Chess Player ♟️ | Applying chess strategies to cloud architecture!"
+interests: ["Cloud Computing", "DevOps Automation", "Container Technologies", "Web Development"]
+currently_learning: ["Advanced AWS Services", "Kubernetes Fundamentals", "Infrastructure Automation"]
+fun_fact: "State-level Chess Player ♟️ | Strategic thinking on and off the board!"
 
 daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
 ```
@@ -42,12 +42,12 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
 
 ### 🚀 What I'm Up To
 
-- 🔭 Building production-ready cloud infrastructure with **AWS & Terraform**
-- 🌱 Deep diving into **Kubernetes orchestration** and **GitOps workflows**
-- 👯 Open to collaborate on **DevOps automation** and **cloud-native projects**
-- 💡 Exploring **serverless architectures** and **microservices patterns**
-- 📝 Sharing knowledge through [technical blogs](https://pravinsakhare.in)
-- ⚡ Always optimizing for **performance, security, and cost efficiency**
+- 🔭 Building and deploying applications on **AWS Cloud Infrastructure**
+- 🌱 Learning **Kubernetes** and **advanced container orchestration**
+- 👯 Open to collaborate on **cloud projects** and **DevOps automation**
+- 💡 Exploring **serverless architectures** and **CI/CD pipelines**
+- 📝 Sharing my journey on [pravinsakhare.in](https://pravinsakhare.in)
+- ⚡ Passionate about **automation, security, and scalable solutions**
 
 ---
 
@@ -55,34 +55,27 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
 
 <div align="center">
 
-#### ☁️ Cloud Platforms
+#### ☁️ Cloud Platform
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### 🐳 Containers & Orchestration
+#### 🐳 Containers & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-#### 🔧 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-#### 🔄 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+#### 📊 Monitoring & Management
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,18 +83,17 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-#### 🐧 Operating Systems
+#### 🐧 Operating Systems & Servers
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-
-#### 🌐 Web Servers & Networking
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 #### 🔐 Security & Best Practices
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0066CC?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -146,7 +138,7 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
             <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" />
           </a>
         </p>
-        <p><strong>AWS EC2, Apache, SSL/TLS</strong> - Production-ready static website deployment with automated SSL management</p>
+        <p><strong>AWS EC2, Apache, SSL/TLS, Let's Encrypt</strong> - Step-by-step guide for deploying secure static websites on AWS with automated SSL certificate management</p>
       </div>
     </td>
     <td width="50%">
@@ -160,37 +152,37 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
             <img src="https://img.shields.io/badge/Visit-Website-FF6B6B?style=for-the-badge&logo=google-chrome" />
           </a>
         </p>
-        <p><strong>AWS, DynamoDB, S3, CloudFront</strong> - Full-stack photo studio with cloud-native architecture</p>
+        <p><strong>AWS, DynamoDB, S3, CloudFront</strong> - Full-stack photography studio website with cloud-native architecture, featuring dynamic galleries and serverless backend</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Cloud Infrastructure Automation</h3>
+      <h3 align="center">Cloud Infrastructure Projects</h3>
       <div align="center">
         <a href="https://github.com/pravinsakhare" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=terraform" />
+          <img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=for-the-badge&logo=aws" />
         </a>
         <p>
           <a href="https://github.com/pravinsakhare" target="_blank">
             <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
           </a>
         </p>
-        <p><strong>Terraform, CloudFormation</strong> - Automated infrastructure provisioning with IaC best practices</p>
+        <p><strong>AWS Services, Linux, Automation</strong> - Various cloud infrastructure projects focusing on EC2, VPC, S3, and automated deployments</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Container Orchestration</h3>
+      <h3 align="center">DevOps Learning Journey</h3>
       <div align="center">
         <a href="https://github.com/pravinsakhare" target="_blank">
-          <img src="https://img.shields.io/badge/Tech-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
+          <img src="https://img.shields.io/badge/Tech-Docker%20%7C%20K8s-326CE5?style=for-the-badge&logo=docker" />
         </a>
         <p>
           <a href="https://github.com/pravinsakhare" target="_blank">
-            <img src="https://img.shields.io/badge/Explore-Projects-purple?style=for-the-badge&logo=docker" />
+            <img src="https://img.shields.io/badge/Explore-Projects-purple?style=for-the-badge&logo=kubernetes" />
           </a>
         </p>
-        <p><strong>Kubernetes, Docker, CI/CD</strong> - Microservices deployment with automated pipelines</p>
+        <p><strong>Docker, Kubernetes, Jenkins</strong> - Hands-on projects demonstrating containerization and CI/CD pipeline implementations</p>
       </div>
     </td>
   </tr>
@@ -213,28 +205,59 @@ daily_routine: ["☕ Coffee", "💻 Code", "☁️ Cloud", "🔁 Repeat"]
 | Certification | Issuer | Year |
 |--------------|---------|------|
 | 🏅 **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 |
-| 🎓 **AWS re/Start Graduate** | AWS School | 2025 |
+| 🎓 **AWS re/Start Graduate** | AWS Training & Certification | 2025 |
 | ♟️ **State Level Chess Player** | Maharashtra Chess Association | Active |
 
 </div>
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Journey
 
 ```mermaid
 timeline
-    title Career Journey
+    title Career Timeline
     2025 : Growth Associate at Talenlio International
          : Coordinated 15+ cloud engineering positions
          : Engaged with 500+ HR professionals
     2025 : AWS re/Start Graduate
-         : Intensive cloud computing training
-         : Hands-on with AWS services
+         : Intensive hands-on AWS training
+         : Completed 350+ hours of cloud learning
     2025 : AWS Certified Cloud Practitioner
          : Validated AWS fundamentals
          : Cloud best practices certified
+    2024 : Started Cloud & DevOps Journey
+         : Self-learning and projects
+         : Building practical skills
 ```
+
+---
+
+### 📚 Currently Learning
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667BC6','primaryTextColor':'#1a1a1a','primaryBorderColor':'#7091F5','lineColor':'#7091F5','secondaryColor':'#FF6B9D','tertiaryColor':'#FFA726','background':'#E8F0FE','mainBkg':'#FFFFFF','secondBkg':'#F5F5F5','textColor':'#1a1a1a','fontSize':'18px'}}}%%
+mindmap
+  root((Learning Path))
+    Advanced AWS
+      Solutions Architecture
+      Serverless Computing
+      VPC & Networking
+    Kubernetes
+      Container Orchestration
+      K8s Deployment
+      Service Management
+    Infrastructure as Code
+      CloudFormation
+      Automation Scripts
+    DevOps Best Practices
+      CI/CD Pipelines
+      Monitoring & Logging
+```
+
+</div>
 
 ---
 
@@ -273,11 +296,11 @@ timeline
 
 <div align="center">
   
-  ### 💭 Philosophy
+  ### 💭 My Motto
   
-  > **"Eat. Code. Deploy. Repeat."**
+  > **"Learn. Build. Deploy. Share."**
   
-  *Building the cloud infrastructure of tomorrow, one commit at a time.*
+  *Transforming ideas into cloud solutions, one project at a time.*
   
   ---
   
